@@ -1,0 +1,7 @@
+[14-Jun-2019 14:21:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/paysenz/app_paysenz/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[14-Jun-2019 14:22:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/paysenz/app_paysenz/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[14-Jun-2019 14:22:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/paysenz/app_paysenz/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[14-Jun-2019 14:22:54 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/paysenz/app_paysenz/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[14-Jun-2019 14:28:49 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 14:29:37 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[14-Jun-2019 14:29:46 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
